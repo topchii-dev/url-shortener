@@ -1,0 +1,6 @@
+__pycache__/*
+venv/*
+.env
+instance/*
+services/__pycache__/*
+database/__pycache__/*
